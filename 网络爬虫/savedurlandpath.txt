@@ -1,6 +1,0 @@
-在下一行输入网址
-http://www.dmsy67.com/index.php
-在下一行输入driver地址
-C:\Users\14433\Downloads\chromedriver_win32\chromedriver.exe
-在下一行输入chrome源目录
-user-data-dir=C:\Users\14433\AppData\Local\Google\Chrome\User Data
